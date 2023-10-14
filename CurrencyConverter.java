@@ -1,6 +1,7 @@
 public class CurrencyConverter {
     public static void main(String[] args) {
         System.out.println("Josh was here");
+        System.out.println("Josh was here again!");
         java.util.Scanner scan = new java.util.Scanner(System.in);
         System.out.print("If I give you £1, how many Euro will you give me? ");
         double euroOverPoundRatio = scan.nextDouble();
